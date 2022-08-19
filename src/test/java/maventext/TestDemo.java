@@ -15,6 +15,7 @@ public class TestDemo {
 		String maven = demo.hello("Maven");
 		System.out.println(maven);
 		System.out.println("更新1");
+		System.out.println("更新2");
 	}
 
 }
